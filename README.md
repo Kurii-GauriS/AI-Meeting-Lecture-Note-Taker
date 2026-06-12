@@ -1,15 +1,17 @@
 # AI-Meeting-Lecture-Note-Taker
-AI Meeting &amp; Lecture Note Taker  
+AI Meeting And Lecture Note Taker  
 It's an application that uses AI to automatically convert meetings or lectures into organized notes.
-
-Main Features
-🎤 Audio Recording – Records live meetings or lectures.
-📝 Speech-to-Text Transcription – Converts spoken words into written text using AI.
-🤖 AI Summarization – Generates concise summaries from long transcripts.
-✅ Key Points & Action Items – Extracts important topics, decisions, and tasks.
-🔍 Searchable Notes – Lets users quickly find information from previous recordings.
-☁️ Export & Sharing – Saves notes in formats like PDF, TXT, or integrates with other tools.
-How It Works
+<br><br>
+<h1>Main Features </h1>
+<br><br>
+🎤 Audio Recording – Records live meetings or lectures.<br>
+📝 Speech-to-Text Transcription – Converts spoken words into written text using AI.<br>
+🤖 AI Summarization – Generates concise summaries from long transcripts.<br>
+✅ Key Points & Action Items – Extracts important topics, decisions, and tasks.<br>
+🔍 Searchable Notes – Lets users quickly find information from previous recordings.<br>
+☁️ Export & Sharing – Saves notes in formats like PDF, TXT, or integrates with other tools.<br><br>
+<h1>How It Works</h1>
+<br>
 User records a lecture or uploads an audio file.
 The system transcribes the speech into text.
 An AI model analyzes the transcript.
