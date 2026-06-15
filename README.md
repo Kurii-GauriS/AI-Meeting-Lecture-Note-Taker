@@ -83,7 +83,7 @@ NLP model summarizes the transcript<br>
 Output saved in transcripts/ and summaries/<br><br></h3>
 <h1>⚙️ Installation & Setup</h1><br>
 <h2>1. Clone the repository <br>
-git clone <br>https://github.com/your-username/ai-meeting-note-taker.git<br>
+git clone <br>https://github.com/Kurii-GauriS/AI-Meeting-Lecture-Note-Taker<br>
 cd ai-meeting-note-taker<br>
 2. Create virtual environment<br>
 python -m venv venv<br>
